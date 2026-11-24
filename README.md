@@ -1,6 +1,6 @@
 # FFBE Global replay
 
-An interactive replay of FINAL FANTASY Brave Exvius (Global), banner by banner, from launch in 2016 to end of service in 2024. For each step it shows story, trials, espers, events and unit upgrades. It also has a roster at every banner and per-character pages that show which abilities the unit had at that point in time.
+An interactive replay of FINAL FANTASY Brave Exvius (Global), banner by banner, from launch in 2016 to end of service in 2024. For each step it shows story, trials, espers, events and unit upgrades. It also has a roster at every banner (with unit sprites) and per-character pages that show which abilities the unit had at that point in time.
 
 Open it at https://margravemarkei.github.io/ffbe-banners-ui/ — everything is in the single `index.html`, so it also works offline.
 
